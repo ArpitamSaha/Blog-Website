@@ -1,0 +1,38 @@
+.cards {
+  margin: 2rem 9rem;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 1rem;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+}
+.card-img img {
+  width: 100%;
+  height: 10rem;
+  border-radius: 0.55rem;
+}
+.card-head {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.card-desp {
+  font-size: 0.8rem;
+}
+.card-readmore {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding-right: 7px;
+  text-align: end;
+}
+.card-readmore a {
+  text-decoration: none;
+}
+@media (max-width: 768px) {
+  .cards {
+    margin: 2rem 2rem;
+    grid-template-columns: auto auto auto;
+  }
+}

@@ -1,0 +1,17 @@
+.navbar {
+  margin: 1rem;
+  background-color: rgba(0, 0, 0, 0.9);
+  height: 3.5rem;
+}
+.header {
+  padding: 1rem 1rem;
+}
+.header a {
+  text-decoration: none;
+}
+.header h2 {
+  color: whitesmoke;
+}
+.header span {
+  color: orange;
+}

@@ -1,0 +1,12 @@
+.Banner {
+  background-color: black;
+  height: 35vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: rgb(229, 255, 220);
+}
+.header {
+  color: whitesmoke;
+}
