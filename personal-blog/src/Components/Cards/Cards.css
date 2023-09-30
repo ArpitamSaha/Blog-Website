@@ -5,3 +5,19 @@
 .desc {
   height: 15rem;
 }
+.blog-image{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.blog-image img{
+  aspect-ratio: 9/8;
+  object-fit: contain;
+  margin: 1rem;
+  width: 30rem;
+  height: 35rem;
+}
+.blog-desc{
+  margin: 2rem 5rem;
+  font-size: 1.3rem;
+}

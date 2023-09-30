@@ -7,6 +7,7 @@
   text-decoration: none;
 }
 .header h2 {
+  padding: 0rem 1rem;
   color: whitesmoke;
 }
 .header span {
