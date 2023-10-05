@@ -8,6 +8,7 @@ import Blog1 from './Components/Cards/Blogs/Blog1';
 import Blog2 from './Components/Cards/Blogs/Blog2';
 import Blog3 from './Components/Cards/Blogs/Blog3';
 import Blog4 from './Components/Cards/Blogs/Blog4';
+import Blog6 from './Components/Cards/Blogs/Blog6';
 
 function App() {
   return (
@@ -21,7 +22,8 @@ function App() {
       <Route path='/blog2' element={<Blog2 />}/>
       <Route path='/blog3' element={<Blog3 />}/>
       <Route path='/blog4' element={<Blog4 />}/>
-      <Route path='/blog1' element={<Blog1 />}/>
+      <Route path='/blog5' element={<Blog4 />}/>
+      <Route path='/blog6' element={<Blog6 />}/>
       <Route path='/blog1' element={<Blog1 />}/>
       <Route path='/blog1' element={<Blog1 />}/>
       

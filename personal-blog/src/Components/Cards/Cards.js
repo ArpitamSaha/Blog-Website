@@ -5,6 +5,7 @@ import Post2 from '../../Images/TheAlchemist.jpg';
 import Post3 from '../../Images/G20Summit.jpg';
 import Post4 from '../../Images/RegrettingYou.jpg';
 import Post5 from '../../Images/VandeBharat.jpg';
+import Post6 from '../../Images/ItEndsWithUs.jpeg';
 import "./Cards.css";
 
 
@@ -66,10 +67,10 @@ const Cards = () => {
                 </div>
                 <div className='col-md-4 my-5' >
                     <div className="card " >
-                        <img src={Post3} alt='Iphone Blog' />
+                        <img src={Post6} alt='Iphone Blog' />
                         <div className="card-body">
-                            <h5 className="card-title">Latest offering from Apple</h5>
-                            <p className="card-text desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos dolorem, voluptatum dolores ullam consequuntur reprehenderit, doloribus illum nostrum non cupiditate perferendis, mollitia dignissimos itaque eaque ut sed consequatur. Expedita atque velit, earum vero maxime libero explicabo sequi ipsum commodi, nobis necessitatibus a iste quo voluptate minima ea doloribus unde saepe!</p>
+                            <h5 className="card-title">It Ends With US</h5>
+                            <p className="card-text desc">It Ends with Us is a book that follows a girl named Lily who has just moved and is ready to start her life after college. Lily then meets a guy named Ryle and she falls for him. As she is developing feelings for Ryle, Atlas, her first love, reappears and challenges the relationship between Lily and Ryle.</p>
                             <a href="/blog6" className="btn btn-info">Read Blog</a>
                         </div>
                     </div>

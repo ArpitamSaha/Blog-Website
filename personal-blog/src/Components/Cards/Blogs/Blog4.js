@@ -1,6 +1,6 @@
 import React from 'react'
 import Post4 from '../../../Images/RegrettingYou.jpg'
-const Blog3 = () => {
+const Blog4 = () => {
   return (
     <div>
       <div className='blog-image'>
@@ -55,4 +55,4 @@ const Blog3 = () => {
   )
 }
 
-export default Blog3
+export default Blog4
