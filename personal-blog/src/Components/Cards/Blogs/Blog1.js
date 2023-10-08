@@ -24,6 +24,7 @@ const Blog1 = () => {
             <br/>
             <br/>
             As of 30th September 2023, Apple iPhone 15 price in India starts at Rs. 89,900.
+            It is a wonderful phone and highly recomemded in the FLipkart Big Billion Day Sales
             </p>
             </div>
         </div>
