@@ -11,6 +11,7 @@ const Blog1 = () => {
             <p>Apple iPhone 15 mobile was launched on 12th September 2023. The phone comes with a 60 Hz refresh rate 6.10-inch touchscreen display offering a resolution of 1179x2556 pixels at a pixel density of 460 pixels per inch (ppi). Apple iPhone 15 is powered by a hexa-core Apple A16 Bionic processor. It comes with 8GB of RAM. The Apple iPhone 15 supports wireless charging.
             <br/>
             <br/>
+            
             As far as the cameras are concerned, the Apple iPhone 15 on the rear packs a dual camera setup featuring a 48-megapixel (f/1.6) primary camera, and a 12-megapixel (f/2.4) camera. It has a single front camera setup for selfies, featuring a 12-megapixel sensor with an f/1.9 aperture.
             <br/>
             <br/>
