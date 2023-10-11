@@ -10,7 +10,7 @@ const Blog3 = () => {
         
         <div className='blog-desc'>
             <p>
-            Prime Minister Narendra Modi’s diplomatic coup: PM Modi views this summit as India’s diplomatic milestone, with its G20 presidency serving as a platform to amplify the Global South’s concerns. In a personal capacity, the G20 Summit’s outcomes are important for the Indian leader as he faces general elections next year.
+            Prime Minister Narendra Damodardas Modi’s diplomatic coup: PM Modi views this summit as India’s diplomatic milestone, with its G20 presidency serving as a platform to amplify the Global South’s concerns. In a personal capacity, the G20 Summit’s outcomes are important for the Indian leader as he faces general elections next year.
             <br/>
             <br/>
             At the Summit, India was able to leverage its economic significance to garner support from all G20 member nations for a Leaders’ Declaration recognizing the conflict in Ukraine without specifying any aggressor. Modi, who chaired the Summit, also advocated for reforming global institutions like the United Nations Security Council (UNSC) to align with the changing world dynamics, which received backing from the United States.
